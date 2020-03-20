@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zohyieshef.entra.ca/sitemap.xml
